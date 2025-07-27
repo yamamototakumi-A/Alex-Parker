@@ -24,5 +24,6 @@ DevOps & Tools
 - Projects in SaaS, AI tools, or business automation
 
 ## I am looking for a job
-
+Fullstack && blockchain Engineer
+AWS engineer
 
