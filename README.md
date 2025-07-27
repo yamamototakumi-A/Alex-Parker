@@ -23,4 +23,6 @@ DevOps & Tools
 - Freelance/remote jobs (JP/EN OK)
 - Projects in SaaS, AI tools, or business automation
 
+## I am looking for a job
+
 
